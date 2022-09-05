@@ -1,5 +1,6 @@
 # ignore these files
 fonts/
 js/
+css/
 admin/css/
-admin/font-awesome
+admin/font-awesome 
